@@ -1,0 +1,3047 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--
+The Project Gutenberg EBook of Catálogo Instructivo de las Colecciones 
+Mineralógicas by E. Hermitté and G. Bodenbender
+
+
+
+This eBook is for the use of anyone anywhere at no cost and with almost no
+restrictions whatsoever. You may copy it, give it away or re-use it under
+the terms of the Project Gutenberg License included with this eBook or
+online at http://www.gutenberg.org/license
+
+
+
+Title: Catálogo Instructivo de las Colecciones Mineralógicas
+
+Author: E. Hermitté and G. Bodenbender
+
+Release Date: December 22, 2006 [Ebook #20159]
+
+Language: English
+
+Character set encoding: UTF-8
+-->
+
+<!DOCTYPE TEI.2 SYSTEM "http://www.gutenberg.org/tei/marcello/0.4/dtd/pgtei.dtd">
+
+<TEI.2 lang="es">
+<teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>Catálogo Instructivo de las Colecciones Mineralógicas</title>
+ <author>E. Hermitté</author>
+ <author>G. Bodenbender</author>
+ </titleStmt>
+ <editionStmt>
+  <edition n="1">Edition 1</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>Project Gutenberg</publisher>
+ <date value="2006-12-22">December 22, 2006</date>
+ <idno type="etext-no">20159</idno>
+ <availability>
+ <p>This eBook is for the use of anyone anywhere at no cost and
+ with almost no restrictions whatsoever. You may copy it, give it
+ away or re-use it under the terms of the Project Gutenberg
+ License online at www.gutenberg.org/license</p>
+ </availability>
+ </publicationStmt>
+
+ <sourceDesc>
+  <bibl>
+  <title>Catálogo Instructivo de las Colecciones Mineralógicas</title>
+  <author>E. Hermitté</author>
+  <author>G. Bodenbender</author>
+  <imprint>
+    <publisher>Talleres de publicationes de la Oficina Meteorológica</publisher>
+   <pubPlace>BUENOS AIRES</pubPlace>
+   <date>1905</date>
+  </imprint>
+  </bibl>
+ </sourceDesc>
+ </fileDesc>
+
+ <encodingDesc>
+ <classDecl>
+  <taxonomy id="lc">
+  <bibl>
+   <title>Library of Congress Classification</title>
+  </bibl>
+  </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+  <language id="es">Spanish</language>
+   </langUsage>
+ <textClass>
+  <classCode scheme="lc">
+  ***
+  </classCode>
+  <keywords>
+  <list>
+  </list>
+  </keywords>
+ </textClass>
+ </profileDesc>
+ <revisionDesc>
+ <change>
+  <date value="2006-12-22">December 22, 2006</date>
+  <respStmt>
+  <name>Adrian Mastronardi<lb /></name>
+  <name>Joshua Hutchinson<lb /></name>
+  <name>Online Distributed Proofreading Team</name>
+  <name>This file was produced from images generously made available by the Bibliothèque nationale de France (BnF/Gallica) at http://gallica.bnf.fr</name>
+  </respStmt>
+  <item>Project Gutenberg Edition</item>
+ </change>
+ </revisionDesc>
+</teiHeader>
+
+<pgExtensions>
+  <pgStyleSheet>
+    figure           { text-align: center; page-float: 'htbp' }
+    .floatleft       { float: left;  margin-right: 2em }
+    .floatright      { float: right; margin-left:  2em }
+    .w90             { }
+    .w50             { }
+    .w20             { }
+    .w05             { }
+    @media pdf {
+      .w90             { width: 90% }
+      .w50             { width: 50% }
+      .w20             { width: 20% }
+      .w05             { width: 5% }
+    }
+  </pgStyleSheet>
+</pgExtensions>
+
+<text>
+<front>
+<div>
+<divGen type="pgheader" />
+</div>
+
+<div rend="page-break-before: right">
+<p rend="text-align: center">REPÚBLICA ARGENTINA</p>
+
+<p rend="text-align: center">MINISTERIO DE AGRICULTURA<lb />
+DIVISIÓN DE MINAS, GEOLOGÍA É HIDROLOGÍA</p>
+
+<p rend="text-align: center"><lb /><lb />
+Catálogo Instructivo de las Colecciones Mineralógicas</p>
+
+<p rend="text-align: center">ESCOLARES</p>
+
+<p rend="text-align: center">E. HERMITTÉ  - Jefe de la División </p>
+<p rend="text-align: center">G. Bodenbender - Jefe de la Sección Geología</p>
+
+<p rend="text-align: center"><lb /><lb />
+BUENOS AIRES<lb />
+Talleres de publicationes de la Oficina Meteorológica<lb />
+1905</p>
+</div>
+
+</front>
+
+<body>
+<div rend="page-break-before: right">
+<index index="toc" />
+<index index="pdf" />
+<pb n="003" /><anchor id="Pg003" />
+<head>I. CARACTERES MORFOLÓGICOS</head>
+
+<p><hi rend="font-variant: small-caps">Cristales</hi>--(sueltos ó en agregados).</p>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell>Cubo de Pirita de hierro</cell>
+<cell>N<hi rend="vertical-align: super">o</hi> 5<hi rend="vertical-align: super">a</hi></cell>
+<cell>N<hi rend="vertical-align: super">o</hi> 5<hi rend="vertical-align: super">a*</hi></cell>
+</row>
+
+<row>
+<cell>Deltoedro del Analcima</cell>
+<cell>» 92</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Dodecaedro rómbico, Deltoedro ó combinación de los dos (Granate)</cell>
+<cell>» 72</cell>
+<cell>» 34* y 34<hi rend="vertical-align: super">a*</hi></cell>
+</row>
+
+<row>
+<cell>Pirámide hexagonal del Cuarzo</cell>
+<cell>» 26<hi rend="vertical-align: super">a</hi></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Pirámide hexagonal con prisma del Cuarzo</cell>
+<cell>» 26</cell>
+<cell>» 16*</cell>
+</row>
+
+<row>
+<cell>Romboedro del Espato calizo</cell>
+<cell>» 43</cell>
+<cell>» 23* y 24*</cell>
+</row>
+
+<row>
+<cell>Escalenoedro del Espato calizo</cell>
+<cell>» 44</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Cristales rómbicos (prisma con pinacoide) de la Baritina</cell>
+<cell>» 64</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Prisma monoclínico con hemipirámide (incompleta) del Yeso</cell>
+<cell>» 59</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Prisma monoclínico del Feldespato</cell>
+<cell>» 90</cell>
+<cell></cell>
+</row>
+</table>
+
+<p>NOTA.--Los números con estrella se refleren á la colección escolar primaria,
+los otros á la colección escolar secundaria.</p>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell><hi rend="font-variant: small-caps">Agregados</hi>.--1) <hi rend="font-style: italic">Cristalizados.</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Cuarzo</cell>
+<cell>» 26 y 27</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Espato de cal</cell>
+<cell>» 43 </cell>
+<cell>» 44</cell>
+</row>
+<pb n="004" /><anchor id="Pg004" />
+
+<row>
+<cell>Granate</cell>
+<cell>» 72</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Baritina</cell>
+<cell>» 64</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Epídota</cell>
+<cell>» 77</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Analcima, etc</cell>
+<cell>» 92</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>2)  <hi rend="font-style: italic">Cristalinos</hi>.--(macro y micro)</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Azufre</cell>
+<cell>» 1</cell>
+<cell>N<hi rend="vertical-align: super">o</hi> 1*</cell>
+</row>
+
+<row>
+<cell>Galena</cell>
+<cell>» 7</cell>
+<cell>» 6*</cell>
+</row>
+
+<row>
+<cell>Blenda</cell>
+<cell>» 11</cell>
+<cell>» 7*</cell>
+</row>
+
+<row>
+<cell>Hematita</cell>
+<cell>» 20 y 21</cell>
+<cell>» 11* y 12*</cell>
+</row>
+
+<row>
+<cell>Estalactitas</cell>
+<cell>» 47</cell>
+<cell>» 25*</cell>
+</row>
+
+<row>
+<cell>Mármol</cell>
+<cell>» 57</cell>
+<cell>» 43*</cell>
+</row>
+
+<row>
+<cell>Yeso</cell>
+<cell>» 60 </cell><cell>» 62</cell>
+<cell>» 29* </cell><cell>» 30*</cell>
+</row>
+
+<row>
+<cell>Feldespato, etc.</cell>
+<cell>» 91</cell>
+<cell>» 35*</cell>
+</row>
+
+<row>
+<cell>3)  <hi rend="font-style: italic">Criptocristalinos.</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Limonita</cell>
+<cell>» 39</cell>
+<cell>» 15*</cell>
+</row>
+
+<row>
+<cell>4)  <hi rend="font-style: italic">Amorfos</hi>.--(Ópalo, Obsidiana, etc.)</cell>
+<cell></cell>
+<cell></cell>
+</row>
+</table>
+
+<p><hi rend="font-variant: small-caps">Textura de de los Agregados</hi>. (Forma interior)</p>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell>1)  <hi rend="font-style: italic">Agregados granulosos.</hi> (Grano grueso, medio grueso y fino, con transiciones al fibroso y laminar).</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Hierro magnético</cell>
+<cell>» 35</cell>
+<cell>» 19*</cell>
+</row>
+
+<row>
+<cell>Mármol</cell>
+<cell>» 50</cell>
+<cell>» 43*</cell>
+</row>
+
+<row>
+<cell>Sal común</cell>
+<cell>» 40</cell>
+<cell>» 20*</cell>
+</row>
+
+<row>
+<cell>Yeso, etc</cell>
+<cell>» 62</cell>
+<cell>» 30*</cell>
+</row>
+
+<row>
+<cell>2)  <hi rend="font-style: italic">Agregados fibrosos</hi>.--(Gruesos, medio gruesos,finos, paralelos, radiados, reticulados, etcétera).</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<pb n="005" /><anchor id="Pg005" />
+
+<row>
+<cell>Yeso</cell>
+<cell>» 60</cell>
+<cell>» 29*</cell>
+</row>
+
+<row>
+<cell>Boronatrocalcita</cell>
+<cell>» 42</cell>
+<cell>» 22*</cell>
+</row>
+
+<row>
+<cell>Asbesto</cell>
+<cell>» 84</cell>
+<cell>» 36*</cell>
+</row>
+
+<row>
+<cell>3) <hi rend="font-style: italic">Agregados laminares</hi>--hojosos, micáceos.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Yeso</cell>
+<cell>» 61</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Mica</cell>
+<cell>» 74</cell>
+<cell>» 33*</cell>
+</row>
+
+<row>
+<cell>Hematita, etc.</cell>
+<cell>» 21</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>4) <hi rend="font-style: italic">Agregados homogéncos</hi>.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Onix-Mármol</cell>
+<cell>» 19</cell>
+<cell>» 26*</cell>
+</row>
+</table>
+
+<p>NOTA.--Los agregados compactos están en contraposición á los porosos.<lb /></p>
+
+<p><hi rend="font-variant: small-caps">Formas Exteriores de los Agregados</hi>.</p>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell>1) <hi rend="font-style: italic">Estalactitas</hi></cell>
+<cell>» 47</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>2) <hi rend="font-style: italic">Alambres y chapas</hi>: </cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Oro, Plata, Cobre</cell>
+<cell>» 2, 3, 4</cell>
+<cell>» 2*, 3*, y 4*</cell>
+</row>
+
+<row>
+<cell>3) <hi rend="font-style: italic">Concreciones</hi>: </cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Tosca</cell>
+<cell>» 51</cell>
+<cell>» 44*</cell>
+</row>
+
+<row>
+<cell>Boronatrocalcita</cell>
+<cell>» 42</cell>
+<cell>» 22*</cell>
+</row>
+
+<row>
+<cell>4) <hi rend="font-style: italic">Drusas</hi>. (Secreciones): </cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Espato de cal</cell>
+<cell>» 43</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Analcima</cell>
+<cell>» 92</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>5) <hi rend="font-style: italic">Costras, revestimientos, pegaduras</hi>: </cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Azurita</cell>
+<cell>» 58</cell>
+<cell>» 28*</cell>
+</row>
+
+<row>
+<cell>Descloizita</cell>
+<cell>» 71</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>6) <hi rend="font-style: italic">Eflorescencias</hi>: </cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Alumbre</cell>
+<cell>» 65</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Sulfato de magnesio</cell>
+<cell>» 66</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>7) <hi rend="font-style: italic">Embutidas</hi>: </cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Granate en feldespato, etc.</cell>
+<cell>» 73</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Hierro cromífero en Serpentina</cell>
+<cell>» 36</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>8) <hi rend="font-style: italic">Vetas ó filones</hi>. (Agregados de orden superior) Galena, blenda, etc., con cuarzo ó espato de hierro, etc. </cell>
+<cell>»  19</cell>
+<cell></cell>
+</row>
+
+<pb n="006" /><anchor id="Pg006" />
+
+<row>
+<cell><hi rend="font-variant: small-caps">Fósiles.</hi>--(Formas orgánicas) </cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Plantas fósiles (carbonizadas)</cell>
+<cell>» 100</cell>
+<cell>» 50*</cell>
+</row>
+
+<row>
+<cell>Madera fósil silicificada</cell>
+<cell>»  34</cell>
+<cell>» 18*</cell>
+</row>
+
+<row>
+<cell>Animales fósiles</cell>
+<cell>»  99</cell>
+<cell>» 49*</cell>
+</row>
+
+<row>
+<cell><hi rend="font-variant: small-caps">Seudomorfismo.</hi> (Epigenias):  </cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Hierro pardo en cubos, por descomposición de pirita de hierro</cell>
+<cell>»   6</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell><hi rend="font-variant: small-caps">Maclas</hi>. (Gemelos), múltiples, caracterizados por estriamiento sobre los planos de clivaje. </cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Espato de cal</cell>
+<cell>»  45</cell>
+<cell></cell>
+</row>
+</table>
+</div>
+
+<div>
+<index index="toc" />
+<index index="pdf" />
+<head>II. CARACTERES FÍSICOS</head>
+
+<p><hi rend="font-variant: small-caps">Clivaje</hi>, (ó cruceros):</p>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell>A) Según la posición de los planos de clivaje:</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>1)  <hi rend="font-style: italic">Octaédrico:</hi> </cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Hierro magnético</cell>
+<cell>» 35</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>2)  <hi rend="font-style: italic">Cúbico:</hi> </cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Galena</cell>
+<cell>»  7</cell>
+<cell>» 6*</cell>
+</row>
+
+<row>
+<cell>3)  <hi rend="font-style: italic">Romboédrico:</hi> </cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Espato de cal</cell>
+<cell>» 45 y 46 </cell>
+<cell>» 23* y 24*</cell>
+</row>
+
+<row>
+<cell>4)  <hi rend="font-style: italic">Prismático:</hi> </cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Antimonita</cell>
+<cell>» 12</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Enargita</cell>
+<cell>» 17</cell>
+<cell></cell>
+</row>
+
+<pb n="007" /><anchor id="Pg007" />
+
+<row>
+<cell>B) Según el grado de perfección:</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>1) <hi rend="font-style: italic">Sumamente perfecto</hi>: </cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Mica</cell>
+<cell>» 74</cell>
+<cell>» 33*</cell>
+</row>
+
+<row>
+<cell>2) <hi rend="font-style: italic">Muy perfecto</hi>: </cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Galena</cell>
+<cell>» 7 y 8</cell>
+<cell>» 6*</cell>
+</row>
+
+<row>
+<cell>Espato de cal</cell>
+<cell>» 45 y 46 </cell>
+<cell>» 23* y 24*</cell>
+</row>
+
+<row>
+<cell>3) <hi rend="font-style: italic">Imperfecto ó muy imperfecto.</hi> </cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Cuarzo</cell>
+<cell>» 26 y 27</cell>
+<cell>» 16*</cell>
+</row>
+
+<row>
+<cell>Granate</cell>
+<cell>» 72</cell>
+<cell></cell>
+</row>
+</table>
+
+<p><hi rend="font-variant: small-caps">Fractura</hi>.--A) Según la forde la superficie:</p>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell>1) <hi rend="font-style: italic">Concoidal</hi>: (factura del vidrio grueso) (Obsidiana).</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>2) <hi rend="font-style: italic">Desigual</hi>: </cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Pirita de hierro</cell>
+<cell>» 5</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Cuarzo</cell>
+<cell>» 86</cell>
+<cell>» 17*</cell>
+</row>
+
+<row>
+<cell>3) <hi rend="font-style: italic">Llana</hi>. </cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Piedra Córnea.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>B) Según la calidad de de la superficie: <hi rend="font-style: italic">Lisa</hi>: </cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Piedra córnea y Calcedonia.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>2) <hi rend="font-style: italic">Astillosa</hi>:</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell> Triplita</cell>
+<cell>» 70</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>3) <hi rend="font-style: italic">Erizada</hi>: </cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell> Oro, Plata, Cobre</cell>
+<cell>» 2, 3, 4</cell>
+<cell>» 2*, 3* y 4*</cell>
+</row>
+
+<row>
+<cell>4) <hi rend="font-style: italic">Terrosa</hi>: </cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell> Hematita ocrácea</cell>
+<cell>» 22</cell>
+<cell>» 11*</cell>
+</row>
+
+<row>
+<cell>Kaolina</cell>
+<cell>» 94</cell>
+<cell>» 37*</cell>
+</row>
+</table>
+
+<pb n="008" /><anchor id="Pg008" />
+
+<p><hi rend="font-variant: small-caps">Dureza</hi>.--Escala de dureza:</p>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell>1) Talco</cell>
+<cell>» 80</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>2) Yeso</cell>
+<cell>» 62</cell>
+<cell>» 30*</cell>
+</row>
+
+<row>
+<cell>3) Espato de cal</cell>
+<cell>» 45</cell>
+<cell>» 23*</cell>
+</row>
+
+<row>
+<cell>4) Espato fluor</cell>
+<cell>» 41</cell>
+<cell>» 21*</cell>
+</row>
+
+<row>
+<cell>5) Apatita</cell>
+<cell>» 69</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>6) Ortoclasa</cell>
+<cell>» 91</cell>
+<cell>» 35*</cell>
+</row>
+
+<row>
+<cell>7) Cuarzo</cell>
+<cell>» 28</cell>
+<cell>» 16*</cell>
+</row>
+
+<row>
+<cell>8) Topacio.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>9) Corindón.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>10) Diamante.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+</table>
+
+<milestone unit="tb" />
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell>1) Minerales muy blandos, rayados por la uña (grados 1 hasta 3)</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Oro, Plata, Cobre</cell>
+<cell>» 2, 3, 4</cell>
+<cell>» 2*, 3* y 4*</cell>
+</row>
+
+<row>
+<cell>Galena</cell>
+<cell>» 7</cell>
+<cell>» 6*</cell>
+</row>
+
+<row>
+<cell>Sal común</cell>
+<cell>» 40</cell>
+<cell>» 20*</cell>
+</row>
+
+<row>
+<cell>Yeso</cell>
+<cell>» 60 y 63</cell>
+<cell>» 29* y 30*</cell>
+</row>
+
+<row>
+<cell>Mica</cell>
+<cell>» 74</cell>
+<cell>» 33*</cell>
+</row>
+
+<row>
+<cell>Kaolina</cell>
+<cell>» 94</cell>
+<cell>» 37*</cell>
+</row>
+
+<row>
+<cell>2) Minerales que no son
+rayados por la uña,
+pero si por la punta
+de un cuchillo (grados
+3 hasta 5).</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Blenda</cell>
+<cell>» 10</cell>
+<cell>» 7*</cell>
+</row>
+
+<row>
+<cell>Calcita</cell>
+<cell>» 43</cell>
+<cell>» 22*</cell>
+</row>
+
+<row>
+<cell>Espato fluor</cell>
+<cell>» 41</cell>
+<cell>» 21*</cell>
+</row>
+
+<row>
+<cell>3) Minerales que no son
+rayados por la punta de
+un cuchillo (grados 6
+en adelante).</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Feldespato.</cell>
+<cell>N<hi rend="vertical-align: super">o</hi> 91</cell>
+<cell>N<hi rend="vertical-align: super">o</hi> 35*</cell>
+</row>
+
+<pb n="009" /><anchor id="Pg009" />
+
+<row>
+<cell>Cuarzo</cell>
+<cell>» 28</cell>
+<cell>» 16* y 17*</cell>
+</row>
+
+<row>
+<cell>Granate etc.</cell>
+<cell>» 72</cell>
+<cell>» 34*</cell>
+</row>
+</table>
+
+<p><hi rend="font-variant: small-caps">Tenacidad</hi> <hi rend="font-style: italic">1</hi>) <hi rend="font-style: italic">frágiles:</hi></p>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell>Pirita de hierro</cell>
+<cell>»  5</cell>
+<cell>»  5*</cell>
+</row>
+
+<row>
+<cell>Cuarzo</cell>
+<cell>» 26 etc.</cell>
+<cell>» 17*</cell>
+</row>
+
+<row>
+<cell>Caliza etc.</cell>
+<cell>» 43  »</cell>
+<cell>» 22* y 23*</cell>
+</row>
+
+<row>
+<cell>2) <hi rend="font-style: italic">Sectiles:</hi>  Chalcosina</cell>
+<cell>»  9</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Talco</cell>
+<cell>» 81</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>3) <hi rend="font-style: italic">Maleables</hi> (ductil): Oro, Plata, Cobre</cell>
+<cell>»  2, 3, 4</cell>
+<cell>»  2, 3, 4*</cell>
+</row>
+
+<row>
+<cell>4) <hi rend="font-style: italic">Elásticos:</hi> Mica</cell>
+<cell>» 74</cell>
+<cell>» 33*</cell>
+</row>
+
+<row>
+<cell>5) <hi rend="font-style: italic">Flexibles</hi> (Clorita, Talco, Asbesto).</cell>
+<cell></cell>
+<cell></cell>
+</row>
+</table>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell><hi rend="font-variant: small-caps">Lustre</hi> a)--<hi rend="font-style: italic">Según cantidad. Mui lustroso:</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Mica                       </cell>
+<cell>» 74           </cell>
+<cell>» 33*</cell>
+</row>
+
+<row>
+<cell>Espato de Islandía         </cell>
+<cell>» 45           </cell>
+<cell>» 23*</cell>
+</row>
+
+<row>
+<cell><hi rend="font-style: italic">Lustroso:</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Galena                     </cell>
+<cell>»  7           </cell>
+<cell>»  6*</cell>
+</row>
+
+<row>
+<cell>Granate                    </cell>
+<cell>» 72           </cell>
+<cell>» 34*</cell>
+</row>
+
+<row>
+<cell>    <hi rend="font-style: italic">Poco lustroso:</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Feldespato                 </cell>
+<cell>» 91           </cell>
+<cell>» 35*</cell>
+</row>
+
+<row>
+<cell>    Berilo                     </cell>
+<cell>» 88</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    <hi rend="font-style: italic">Mate:</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Caolina                    </cell>
+<cell>» 94           </cell>
+<cell>» 37*</cell>
+</row>
+
+<row>
+<cell>    <hi rend="font-style: italic">b) Según calidad: Metálico:</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Oro, Plata, Cobre          </cell>
+<cell>»  2, 3, y 4   </cell>
+<cell>»  2*, 3* y 4*</cell>
+</row>
+
+<row>
+<cell>    Pirita de hierro etc.      </cell>
+<cell>»  5           </cell>
+<cell>»  5*</cell>
+</row>
+
+<row>
+<cell>    <hi rend="font-style: italic">Diamantino:</hi> (Diamente)--<hi rend="font-style: italic">Vidrioso:</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Espato de cal              </cell>
+<cell>» 45           </cell>
+<cell>»   23*</cell>
+</row>
+
+<pb n="010" /><anchor id="Pg010" />
+
+<row>
+<cell>Cuarzo (sobre las caras  de los cristales             </cell>
+<cell>» 26           </cell>
+<cell>» 16*</cell>
+</row>
+
+<row>
+<cell><hi rend="font-style: italic">Grasoso:</hi> (ó resinoso): Cuarzo sobre los planos de de fractura)               </cell>
+<cell>» 26 y 27      </cell>
+<cell>» 16 y 17*</cell>
+</row>
+
+<row>
+<cell>    Wolframita (sobre los planos  de fractura                </cell>
+<cell>» 67           </cell>
+<cell>» 31*</cell>
+</row>
+
+<row>
+<cell>    <hi rend="font-style: italic">Perlado:</hi> (nacarado).</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>   Mica                       </cell>
+<cell>» 74           </cell>
+<cell>» 33*</cell>
+</row>
+
+<row>
+<cell>Crisotila                      </cell>
+<cell>» 83           </cell>
+<cell>» 36*</cell>
+</row>
+
+<row>
+<cell><hi rend="font-style: italic">Sedoso:</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Wolastonita                    </cell>
+<cell>» 85</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Aragonita                  </cell>
+<cell>» 52</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Alumbre                    </cell>
+<cell>» 65</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Boronatrocalcita           </cell>
+<cell>» 22           </cell>
+<cell>» 22*</cell>
+</row>
+</table>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell><hi rend="font-variant: small-caps">Diafanidad:</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell> <hi rend="font-style: italic">Transparente:</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Espato de Islandia         </cell>
+<cell>» 45           </cell>
+<cell>» 23*</cell>
+</row>
+
+<row>
+<cell>    <hi rend="font-style: italic">Semi-transparente:</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Cuarzo                     </cell>
+<cell>» 26           </cell>
+<cell>» 16*</cell>
+</row>
+
+<row>
+<cell>    <hi rend="font-style: italic">Translúcido:</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Onyx                       </cell>
+<cell>» 49           </cell>
+<cell>» 26*</cell>
+</row>
+
+<row>
+<cell>    <hi rend="font-style: italic">Semi translúcido:</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Feldespato                 </cell>
+<cell>» 90           </cell>
+<cell>» 35*</cell>
+</row>
+
+<row>
+<cell>    <hi rend="font-style: italic">Opacos:</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell> Oro, Plata, Pirita de hierro,  etc.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+</table>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell><hi rend="font-variant: small-caps">Color:</hi> <hi rend="font-style: italic">Minerales incoloros</hi> (en su estado puro)</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>   
+<cell>Cuarzo                     </cell>
+<cell>» 26           </cell>
+<cell>» 16*</cell>
+</row>
+
+<row>
+<cell>    Sal común                  </cell>
+<cell>» 40           </cell>
+<cell>» 20*</cell>
+</row>
+
+<row>
+<cell>    Espato de Islandia         </cell>
+<cell>» 45           </cell>
+<cell>» 23*</cell>
+</row>
+
+<row>
+<cell>    2) <hi rend="font-style: italic">Minerales con colores</hi>  propios (idiocromáticos) Oro, Plata, Cobre.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<pb n="011" /><anchor id="Pg011" />
+
+<row>
+<cell>    Pirita de hierro           </cell>
+<cell>»  5           </cell>
+<cell>»  5*</cell>
+</row>
+
+<row>
+<cell>    Malaquita                  </cell>
+<cell>» 56           </cell>
+<cell>» 28*</cell>
+</row>
+
+<row>
+<cell>    3) <hi rend="font-style: italic">Minerales con colores  accidentales</hi> (alocromáticos)</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Cuarzo rosado              </cell>
+<cell>» 29           </cell>
+<cell>» 17*</cell>
+</row>
+
+<row>
+<cell>    Onyx--Mármol               </cell>
+<cell>» 49           </cell>
+<cell>» 26*</cell>
+</row>
+
+<row>
+<cell>    Espato-Fluor               </cell>
+<cell>» 41           </cell>
+<cell>» 21*</cell>
+</row>
+
+<row>
+<cell>    Granate                    </cell>
+<cell>» 72           </cell>
+<cell>» 34*</cell>
+</row>
+
+<row>
+<cell>    Feldespato                 </cell>
+<cell>» 91           </cell>
+<cell>» 35*</cell>
+</row>
+</table>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell><hi rend="font-variant: small-caps">Colores metálicos:</hi> <hi rend="font-style: italic">Blancos:</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Blanco de plata            </cell>
+<cell>»  3           </cell>
+<cell>»  4*</cell>
+</row>
+
+<row>
+<cell>      (Blanco de estaño)  <hi rend="font-style: italic">Amarillos:</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    De oro                     </cell>
+<cell>»  2           </cell>
+<cell>»  2*</cell>
+</row>
+
+<row>
+<cell>    De bronce                  </cell>
+<cell>»  5           </cell>
+<cell>»  5*</cell>
+</row>
+
+<row>
+<cell>    De latón                   </cell>
+<cell>» 13           </cell>
+<cell>»  9*</cell>
+</row>
+
+<row>
+<cell>    <hi rend="font-style: italic">Gris:</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    De plomo                   </cell>
+<cell>»  7           </cell>
+<cell>»  6*</cell>
+</row>
+
+<row>
+<cell>    <hi rend="font-style: italic">Rojo:</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    De cobre                   </cell>
+<cell>»  4           </cell>
+<cell>»  3*</cell>
+</row>
+
+<row>
+<cell>    <hi rend="font-style: italic">Negro:</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    De acero hasta negro de  hierro</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Enargita                   </cell>
+<cell>» 17           </cell>
+<cell>» 10*</cell>
+</row>
+
+<row>
+<cell>    Hematita                   </cell>
+<cell>» 20           </cell>
+<cell>» 12*</cell>
+</row>
+
+<row>
+<cell>    Pirolusita                 </cell>
+<cell>» 24           </cell>
+<cell>» 13*</cell>
+</row>
+</table>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell><hi rend="font-variant: small-caps">Colores no metálicos:</hi> <hi rend="font-style: italic">Blancos</hi>   (tipo blanco de nieve):</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Yeso                       </cell>
+<cell>Nº 60          </cell>
+<cell>Nº 29* y 30*</cell>
+</row>
+
+<row>
+<cell>   Caliza                     </cell>
+<cell>»  46 y 47     </cell>
+<cell>»  24* y 25*</cell>
+</row>
+
+<row>
+<cell>    Wolastonita                </cell>
+<cell>»  85</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    <hi rend="font-style: italic">Grises</hi> (tipo gris de ceniza):</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Tierra de infusorios       </cell>
+<cell>»  33</cell>
+<cell></cell>
+</row>
+
+<pb n="012" /><anchor id="Pg012" />
+
+<row>
+<cell>    <hi rend="font-style: italic">Negros</hi> (tipo negro de terciopelo):</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Turmalina                  </cell>
+<cell>» 76           </cell>
+<cell>» 32*</cell>
+</row>
+
+<row>
+<cell>    Carbón de piedra           </cell>
+<cell>» 97           </cell>
+<cell>» 38*</cell>
+</row>
+
+<row>
+<cell>    <hi rend="font-style: italic">Azules</hi> (tipo azul de Prusia):</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Azurita                    </cell>
+<cell>» 58           </cell>
+<cell>» 28*</cell>
+</row>
+
+<row>
+<cell>    <hi rend="font-style: italic">Verdes</hi> (tipo verde de esmeralda):</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Malaquita                  </cell>
+<cell>» 56           </cell>
+<cell>» 28*</cell>
+</row>
+
+<row>
+<cell>    Onix-mármol                </cell>
+<cell>» 49           </cell>
+<cell>» 26*</cell>
+</row>
+
+<row>
+<cell>    Crisocola                  </cell>
+<cell>» 79</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Apatita                    </cell>
+<cell>» 69</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Epídota                    </cell>
+<cell>» 77 y 78</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Serpentina                 </cell>
+<cell>» 82</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    <hi rend="font-style: italic">Amarillos</hi> (tipo amarillo de   limón).</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Azufre                     </cell>
+<cell>» 1            </cell>
+<cell>»  1*</cell>
+</row>
+
+<row>
+<cell>    Ocre de hierro             </cell>
+<cell>» 39           </cell>
+<cell>» 15*</cell>
+</row>
+
+<row>
+<cell>    <hi rend="font-style: italic">Rojos</hi> (tipo rojo-carmesí):</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Hematita ocrácea           </cell>
+<cell>» 22           </cell>
+<cell>» 11*</cell>
+</row>
+
+<row>
+<cell>    Cuarzo rosado              </cell>
+<cell>» 29           </cell>
+<cell>» 17*</cell>
+</row>
+
+<row>
+<cell>    <hi rend="font-style: italic">Pardos</hi> (tipo pardo de castaño):</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Limonita                   </cell>
+<cell>» 37           </cell>
+<cell>» 14*</cell>
+</row>
+
+<row>
+<cell>    Triplita                   </cell>
+<cell>» 70</cell>
+<cell></cell>
+</row>
+</table>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell><hi rend="font-variant: small-caps">Raya</hi> (color del polvo del mineral):</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>1) Minerales incoloros (al       estado puro) ó alocromáticos.       Tienen por lo común      un polvo blanco      ó gris:</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Cuarzo rosado              </cell>
+<cell>» 29           </cell>
+<cell>» 17*</cell>
+</row>
+
+<row>
+<cell>    Espato fluor               </cell>
+<cell>»  4           </cell>
+<cell>» 21*</cell>
+</row>
+
+<pb n="013" /><anchor id="Pg013" />
+
+<row>
+<cell>    Turmalina                         </cell>
+<cell>» 76           </cell>
+<cell>» 32*</cell>
+</row>
+
+<row>
+<cell>    Feldespato                        </cell>
+<cell>» 91           </cell>
+<cell>» 35*</cell>
+</row>
+
+<row>
+<cell>    2) Minerales con colores      propios (idiocromáticos).      El color del mineral y de      su polvo no difieren ó      son por lo menos parecidos:</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Galena (polvo gris-oscuro)        </cell>
+<cell>»  7           </cell>
+<cell>»  6*</cell>
+</row>
+
+<row>
+<cell>    Hematita (polvo rojo-parduzco)    </cell>
+<cell>» 20           </cell>
+<cell>» 11*</cell>
+</row>
+
+<row>
+<cell>    Malaquita (polvo verde)           </cell>
+<cell>» 56           </cell>
+<cell>» 28*</cell>
+</row>
+
+<row>
+<cell>    3)  Minerales maleables. Se      ponen lustrosos por frotamiento:</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Oro, plata, cobre.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+</table>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell><hi rend="font-variant: small-caps">Colores multiples</hi> (por agregación):</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Espato fluor                      </cell>
+<cell>» 41           </cell>
+<cell>» 21*</cell>
+</row>
+</table>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell><hi rend="font-variant: small-caps">Colores superficiales</hi> (abigarrados,       en mayor parte      debido á una descomposición      química):</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Pirita de cobre                   </cell>
+<cell>» 13, 14       </cell>
+<cell>»  9*</cell>
+</row>
+</table>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell><hi rend="font-variant: small-caps">Irisación:</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Espato de Islandia.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+</table>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell><hi rend="font-variant: small-caps">Fosforescencia:</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Cuarzo, Espato fluor, etc.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+</table>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell><hi rend="font-variant: small-caps">Doble refracción:</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Espato de Islandia. etc.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+</table>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell><hi rend="font-variant: small-caps">Electricidad:</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    <hi rend="font-style: italic">Azufre</hi>, Cuarzo, Espato calizo,      Mica, Turmalina.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+</table>
+
+<pb n="014" /><anchor id="Pg014" />
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell><hi rend="font-variant: small-caps">Magnetismo:</hi> Hierro magnético       </cell>
+<cell>35    </cell>
+<cell>»    19*</cell>
+</row>
+</table>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell><hi rend="font-variant: small-caps">Peso específico:</hi> (Densidad)</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    0,6 ..  1    Kerosene, Agua</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    1   ..  1,5  Hulla.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    1,5 ..  2,0  Alumbre.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    2,0 ..  2,5  Yeso, Sal común.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    2,5 ..  3,0  Cuarzo, Calcita,      Feldespato.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    3,0 ..  3,5  Espato Fluor,      Turmalina.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    3,5 ..  4,0  Malaquita, Azurita.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    4,0 ..  4,5  Pirita de cobre,      Blenda.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    4,5 ..  5,5  Pirita de hierro,      Cobre gris.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    5,5 ..  6,5  <hi rend="font-style: italic">Magnetita,</hi>      Chalcosina.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    6,5 ..  8    Cerusita, Casiterita,       Galena.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    8,5 .. 10,0  Cobre, Bismuto.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>   10,0 .. 14,0  Plata, Plomo,      Mercurio.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>   15,0 .. 21    Oro, platino.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>   21,5 .. 23    Iridio.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+</table>
+</div>
+
+<div rend="page-break-before: right">
+<index index="toc" />
+<index index="pdf" />
+<pb n="015" /><anchor id="Pg015" />
+<head>III. CARACTERES FISIOLÓGICOS</head>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell>1) Por frotamiento emite  olor á azufre:</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>  Pirita de hierro             </cell>
+<cell>»  5           </cell>
+<cell>»  5*</cell>
+</row>
+
+<row>
+<cell>2) Cuando se le echa el  aliento emite olor terroso:</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>  Kaolina y tierras            </cell>
+<cell>» 94           </cell>
+<cell>» 37*</cell>
+</row>
+
+<row>
+<cell>3) Se pega á la lengua:</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>  Kaolina y tierras            </cell>
+<cell>»  94          </cell>
+<cell>» 37*</cell>
+</row>
+
+<row>
+<cell>4) Untuoso al tacto;</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell> Talco                        </cell>
+<cell>»  81</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>5) Sabor salino:</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>  Sal común                    </cell>
+<cell>» 40           </cell>
+<cell>» 20*</cell>
+</row>
+
+<row>
+<cell>6) Sabor salino amargo:</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>  Sulfato de magnesio          </cell>
+<cell>» 66</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>7) Sabor metálico:</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>  
+<cell>Vitriolo de cobre.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+</table>
+</div>
+
+<div rend="page-break-before: right">
+<index index="toc" />
+<index index="pdf" />
+<head>IV. CARACTERES QUÍMICOS<note place="foot"><p>Los institutos de enseñanza en los que se quiera hacer ensayos químicos
+con minerales pueden dirigirse á la División de Minas, Geología é Hidrología para
+obtener las muestras necesarias.</p></note></head>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell><hi rend="font-variant: small-caps">Fusibilidad</hi> 1) Minerales facilmente      fusibles (fusibles      con la llama de una      vela:</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>      Antimonita, Sal común.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    2) Dificilmente fusibles á      un globulito:</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>      Granate (Almandina).</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<pb n="016" /><anchor id="Pg016" />
+
+<row>
+<cell>    3) Facilmente fusibles en      astillas finas:</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>      Feldespato.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    4) Dificilmente fusibles en      astillas:      Bronzita.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    5) Infusibles á la llama del      soplete:      Cuarzo.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Según Kobell, hay siete      grades de fusibilidad.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>1) Antimonita.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>2) Natrolita.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>3) Almandina.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>4) Actinolita.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>5) Ortoclasa.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>6) Bronzita.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>7) Cuarzo.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+</table>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell><hi rend="font-variant: small-caps">Sublimación:</hi> (total ó parcial).</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>      Azufre, Pirita de hierro,</cell>
+<cell></cell>
+<cell></cell>
+</row>
+</table>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell><hi rend="font-variant: small-caps">Solubilidad:</hi> <hi rend="font-style: italic">A)</hi> En agua:      <hi rend="font-style: italic">Sal común.</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    <hi rend="font-style: italic">B)</hi> En ácido clorhídrico:</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    1) Con desprendimiento de      ácido carbónico: <hi rend="font-style: italic">Caliza.</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    2) Con desprendimiento de      cloro: <hi rend="font-style: italic">Pirolusita.</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    3) Con desprendimiento de      ácido sulfhidrico: <hi rend="font-style: italic">Blenda.</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    <hi rend="font-style: italic">C)</hi> En ácido nitrico, con      desprendimiento de bióxido      de nitrógeno (vapores      rutilantes): <hi rend="font-style: italic">Hierro      magnético.</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<pb n="017" /><anchor id="Pg017" />
+
+<row>
+<cell>   <hi rend="font-style: italic">D</hi>)  Parcialmente solubles      en los ácidos:</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    1) Sulfuros, solubles en      ácido nitrico concentrado,      con separacion de      azufre: <hi rend="font-style: italic">Blenda, Pirita de      hierro</hi>.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    2) Silicatos solubles en ácido      clorhídrico con separación      de ácido sílicico.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    <hi rend="font-style: italic">a</hi>) Bajo la forma de polvo      arenoso: <hi rend="font-style: italic">Serpentina</hi>.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    <hi rend="font-style: italic">b</hi>) Bajo la forma de masa      gelatinosa: <hi rend="font-style: italic">Wolastonita</hi>.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    3)  Wolframatos solubles      (en polvo muy fino) en      ácido clorhídrico concentrado,      separándose ácido      wolfrámico: <hi rend="font-style: italic">Wolframita</hi>.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    <hi rend="font-style: italic">E</hi>)  Insolubles en los ácidos      <hi rend="font-style: italic">Cuarzo, Espato fluor</hi>, <hi rend="font-style: italic">Feldespato</hi>.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+</table>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell><hi rend="font-variant: small-caps">Disgregacíon  de minerales      insolubles en      los ácidos</hi> por fusión      con carbonatos alcalinos:      <hi rend="font-style: italic">Cuarzo, Feldespato.</hi></cell>
+</row>
+</table>
+
+<table rend="latexcolumns: 'p{5cm} l l' ">
+<row>
+<cell><hi rend="font-variant: small-caps">Investigación de los componentes más importantes.</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    <hi rend="font-style: italic">Agua</hi>. Agua higroscópica:      Sal común.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>    Agua de cristalización:      Yeso.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<pb n="018" /><anchor id="Pg018" />
+
+<row>
+<cell>Agua de cristalización y de  constitución: Serpentina.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell> <hi rend="font-style: italic">Acido sulfhídrico ó azufre:</hi>
+  Galena, Blenda.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell> <hi rend="font-style: italic">Acido clorhídrico:</hi> Sal común.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell> <hi rend="font-style: italic">Ácido fluorhídrico:</hi> Espato  fluor.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell> <hi rend="font-style: italic">Acido sulfúrico:</hi> Yeso.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell> <hi rend="font-style: italic">Acido fosórico:</hi> Apatita.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell> <hi rend="font-style: italic">Acido carbónico:</hi> Espato  de cal, Cerusita.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell> <hi rend="font-style: italic">Acido sílicico: Serpentina, Feldespato, Wolastonita.</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell> <hi rend="font-style: italic">Cobre:</hi> Pirita de cobre.       Crisocola.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell> <hi rend="font-style: italic">Zinc:</hi> Blenda.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell> <hi rend="font-style: italic">Plomo:</hi> Galena.       Cerusita.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell> <hi rend="font-style: italic">Hierro:</hi> Pirita de hierro.        Hierro magnético.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell> <hi rend="font-style: italic">Antimonio:</hi> Antimonita.           Enargita.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell> <hi rend="font-style: italic">Arsénico:</hi> Hierro arsenical.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell> <hi rend="font-style: italic">Manganeso:</hi> Pirolusita.           Wolframita.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell> <hi rend="font-style: italic">Aluminio:</hi> Alumbre.          Ortoclasa.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell> <hi rend="font-style: italic">Calcio:</hi> Espato de cal.        Yeso.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell> <hi rend="font-style: italic">Magnesio:</hi> Sulfato de magnesio.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell> <hi rend="font-style: italic">Sodio:</hi> Sal común.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell> <hi rend="font-style: italic">Potasio:</hi> Feldespato.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+</table>
+</div>
+
+<pb n="019" /><anchor id="Pg019" />
+
+<div rend="page-break-before: right">
+<index index="toc" />
+<index index="pdf" />
+<head>COLECCIÓN DE MUESTRAS DE ENSAYO</head>
+
+<table rend="latexcolumns: 'p{5cm}' ">
+<row>
+<cell>N.º  1 Blenda.</cell>
+</row>
+<row>
+<cell>»    2 Galena.</cell>
+</row>
+<row>
+<cell>»    3 Pirita de hierro.</cell>
+</row>
+<row>
+<cell>»    4 Limonita ó Hematita.</cell>
+</row>
+<row>
+<cell>»    5 Cuarzo.</cell>
+</row>
+<row>
+<cell>»    6 Pirolusita.</cell>
+</row>
+<row>
+<cell>»    7 Espato fluor.</cell>
+</row>
+<row>
+<cell>»    8 Sal común.</cell>
+</row>
+<row>
+<cell>»    9 Espato calizo.</cell>
+</row>
+<row>
+<cell>»    10 Cerusita.</cell>
+</row>
+<row>
+<cell>»    11 Yeso.</cell>
+</row>
+<row>
+<cell>»    12 Sulfato de magnesia.</cell>
+</row>
+<row>
+<cell>»    13 Apatita.</cell>
+</row>
+<row>
+<cell>»    14 Wolframita.</cell>
+</row>
+<row>
+<cell>»    15 Serpentina.</cell>
+</row>
+<row>
+<cell>»    16 Wolastonita.</cell>
+</row>
+<row>
+<cell>»    17 Crisocola.</cell>
+</row>
+<row>
+<cell>»    18 Feldespato.</cell>
+</row>
+</table>
+</div>
+
+<div>
+<index index="toc" />
+<index index="pdf" />
+<head>ALGUNOS EJEMPLOS DE LA FORMACIÓN DE MINERALES</head>
+
+<table rend="latexcolumns: 'p{5cm} l p{2cm} ' ">
+<row>
+<cell>  A) <hi rend="font-style: italic">Minerales formados en     disoluciones acuosas por     evaporación del agua:</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>  Sal común                     </cell>
+<cell>Nº 40</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>  Yeso                          </cell>
+<cell>»  59</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>  Calcedonia                    </cell>
+<cell>»  31</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>  Cuarzo cristalizado           </cell>
+<cell>»  27</cell>
+<cell></cell>
+</row>
+
+<pb n="020" /><anchor id="Pg020" />
+
+<row>
+<cell> B) <hi rend="font-style: italic">Minerales formados en     disoluciones acuosas cargadas     de ácido carbónico,     por evaporación de     este último.</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>  Espato calizo          </cell>
+<cell> Nº 44, etc.</cell>
+<cell> (dentro de grietas                                  que cruzan el                                 mármol.</cell>
+</row>
+
+<row>
+<cell>  Estalactitas            </cell>
+<cell>»  47 </cell>
+<cell>(dentro de cavernas                                  en caliza).</cell>
+</row>
+
+<row>
+<cell>  Travertina              </cell>
+<cell>»  48 </cell>
+<cell>(en agua bajo la acción                                  de plantas).</cell>
+</row>
+
+<row>
+<cell>  Onyx-Mármol             </cell>
+<cell>»  49 </cell>
+<cell>(en aguas calientes)</cell>
+</row>
+
+<row>
+<cell>  C) <hi rend="font-style: italic">Minerales formados por     procesos químicos; par     la acción del oxígeno,     del ácido carbónico y del     agua:</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>  1) Limonita, por descomposición    de Pirita de hierro             </cell>
+<cell>Nº 38</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>  3) Cerusita, por descomposición    de Galena                       </cell>
+<cell>»  53</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>  4) Malaquita por descomposición    de Cobre                        </cell>
+<cell>»   4</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>  5) Analcima, por descomposición    de Basalto                      </cell>
+<cell>»  92</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>  6) Caolina, por descomposición    de Feldespato                   </cell>
+<cell>»  94</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>  D) <hi rend="font-style: italic">Minerales formados en     una masa fusión (rocas     eruptivas)</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Feldespato en granito               </cell>
+<cell>»  91</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>Cuarzo                              </cell>
+<cell>»  28</cell>
+<cell></cell>
+</row>
+
+<pb n="021" /><anchor id="Pg021" />
+
+<row>
+<cell>  Mica en granito                   </cell>
+<cell>» 74</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>  Anfibol                           </cell>
+<cell>» 86</cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>  E) <hi rend="font-style: italic">Minerales en filones metálicos,     como: Galena,     Pirita de hierro, Blenda,     etc., formados:</hi></cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>  1) por procedimientos de    disoluciones acuosas, ej.:    sulfato de hierro, ha sido    reducido á sulfuro de hierro,    ó</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>  2) por acción del gas sulfhídrico    (ó sulfuros alcalinos)    sobre disoluciones;    ej.: carbonato de plomo,    transformado en galena:</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>  3) por sublimación de gases    (casos raros)</cell>
+<cell></cell>
+<cell></cell>
+</row>
+
+<row>
+<cell>  4) por reducción de sus    disoluciones ó de minerales    compuestos: oro nativo    por reducción de cloruro    de oro; cobre nativo    en parte por reducción    de óxido de cobre (cobre    rojo) ó de malaquita (carbonato    de cobre)</cell>
+<cell></cell>
+<cell></cell>
+</row>
+</table>
+</div>
+</body>
+
+
+<back rend="page-break-before: right">
+<div>
+<divGen type="pgfooter" />
+</div>
+
+</back>
+
+    </text>
+</TEI.2>
+
+<!--
+A WORD FROM PROJECT GUTENBERG
+
+
+This file should be named 20159-tei.tei or 20159-tei.zip.
+
+This and all associated files of various formats will be found in:
+
+
+    http://www.gutenberg.org/dirs/2/0/1/5/20159/
+
+
+Updated editions will replace the previous one — the old editions will be
+renamed.
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in the
+General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg™ electronic works to protect the Project
+Gutenberg™ concept and trademark. Project Gutenberg is a registered
+trademark, and may not be used if you charge for the eBooks, unless you
+receive specific permission. If you do not charge anything for copies of
+this eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given away
+— you may do practically _anything_ with public domain eBooks.
+Redistribution is subject to the trademark license, especially commercial
+redistribution.
+
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+
+_Please read this before you distribute or use this work._
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work (or
+any other work associated in any way with the phrase “Project Gutenberg”),
+you agree to comply with all the terms of the Full Project Gutenberg™
+License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.
+
+
+General Terms of Use & Redistributing Project Gutenberg™ electronic works
+
+
+1.A.
+
+
+By reading or using any part of this Project Gutenberg™ electronic work,
+you indicate that you have read, understand, agree to and accept all the
+terms of this license and intellectual property (trademark/copyright)
+agreement. If you do not agree to abide by all the terms of this
+agreement, you must cease using and return or destroy all copies of
+Project Gutenberg™ electronic works in your possession. If you paid a fee
+for obtaining a copy of or access to a Project Gutenberg™ electronic work
+and you do not agree to be bound by the terms of this agreement, you may
+obtain a refund from the person or entity to whom you paid the fee as set
+forth in paragraph 1.E.8.
+
+
+1.B.
+
+
+“Project Gutenberg” is a registered trademark. It may only be used on or
+associated in any way with an electronic work by people who agree to be
+bound by the terms of this agreement. There are a few things that you can
+do with most Project Gutenberg™ electronic works even without complying
+with the full terms of this agreement. See paragraph 1.C below. There are
+a lot of things you can do with Project Gutenberg™ electronic works if you
+follow the terms of this agreement and help preserve free future access to
+Project Gutenberg™ electronic works. See paragraph 1.E below.
+
+
+1.C.
+
+
+The Project Gutenberg Literary Archive Foundation (“the Foundation” or
+PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg™ electronic works. Nearly all the individual works in the
+collection are in the public domain in the United States. If an individual
+work is in the public domain in the United States and you are located in
+the United States, we do not claim a right to prevent you from copying,
+distributing, performing, displaying or creating derivative works based on
+the work as long as all references to Project Gutenberg are removed. Of
+course, we hope that you will support the Project Gutenberg™ mission of
+promoting free access to electronic works by freely sharing Project
+Gutenberg™ works in compliance with the terms of this agreement for
+keeping the Project Gutenberg™ name associated with the work. You can
+easily comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when you
+share it without charge with others.
+
+This particular work is one of the few copyrighted individual works
+included with the permission of the copyright holder. Information on the
+copyright owner for this particular work and the terms of use imposed by
+the copyright holder on this work are set forth at the beginning of this
+work.
+
+
+1.D.
+
+
+The copyright laws of the place where you are located also govern what you
+can do with this work. Copyright laws in most countries are in a constant
+state of change. If you are outside the United States, check the laws of
+your country in addition to the terms of this agreement before
+downloading, copying, displaying, performing, distributing or creating
+derivative works based on this work or any other Project Gutenberg™ work.
+The Foundation makes no representations concerning the copyright status of
+any work in any country outside the United States.
+
+
+1.E.
+
+
+Unless you have removed all references to Project Gutenberg:
+
+
+1.E.1.
+
+
+The following sentence, with active links to, or other immediate access
+to, the full Project Gutenberg™ License must appear prominently whenever
+any copy of a Project Gutenberg™ work (any work on which the phrase
+“Project Gutenberg” appears, or with which the phrase “Project Gutenberg”
+is associated) is accessed, displayed, performed, viewed, copied or
+distributed:
+
+
+    This eBook is for the use of anyone anywhere at no cost and with
+    almost no restrictions whatsoever. You may copy it, give it away
+    or re-use it under the terms of the Project Gutenberg License
+    included with this eBook or online at http://www.gutenberg.org
+
+
+1.E.2.
+
+
+If an individual Project Gutenberg™ electronic work is derived from the
+public domain (does not contain a notice indicating that it is posted with
+permission of the copyright holder), the work can be copied and
+distributed to anyone in the United States without paying any fees or
+charges. If you are redistributing or providing access to a work with the
+phrase “Project Gutenberg” associated with or appearing on the work, you
+must comply either with the requirements of paragraphs 1.E.1 through 1.E.7
+or obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+
+1.E.3.
+
+
+If an individual Project Gutenberg™ electronic work is posted with the
+permission of the copyright holder, your use and distribution must comply
+with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed
+by the copyright holder. Additional terms will be linked to the Project
+Gutenberg™ License for all works posted with the permission of the
+copyright holder found at the beginning of this work.
+
+
+1.E.4.
+
+
+Do not unlink or detach or remove the full Project Gutenberg™ License
+terms from this work, or any files containing a part of this work or any
+other work associated with Project Gutenberg™.
+
+
+1.E.5.
+
+
+Do not copy, display, perform, distribute or redistribute this electronic
+work, or any part of this electronic work, without prominently displaying
+the sentence set forth in paragraph 1.E.1 with active links or immediate
+access to the full terms of the Project Gutenberg™ License.
+
+
+1.E.6.
+
+
+You may convert to and distribute this work in any binary, compressed,
+marked up, nonproprietary or proprietary form, including any word
+processing or hypertext form. However, if you provide access to or
+distribute copies of a Project Gutenberg™ work in a format other than
+“Plain Vanilla ASCII” or other format used in the official version posted
+on the official Project Gutenberg™ web site (http://www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original “Plain Vanilla ASCII” or other form.
+Any alternate format must include the full Project Gutenberg™ License as
+specified in paragraph 1.E.1.
+
+
+1.E.7.
+
+
+Do not charge a fee for access to, viewing, displaying, performing,
+copying or distributing any Project Gutenberg™ works unless you comply
+with paragraph 1.E.8 or 1.E.9.
+
+
+1.E.8.
+
+
+You may charge a reasonable fee for copies of or providing access to or
+distributing Project Gutenberg™ electronic works provided that
+
+    - You pay a royalty fee of 20% of the gross profits you derive from
+      the use of Project Gutenberg™ works calculated using the method you
+      already use to calculate your applicable taxes. The fee is owed to
+      the owner of the Project Gutenberg™ trademark, but he has agreed to
+      donate royalties under this paragraph to the Project Gutenberg
+      Literary Archive Foundation. Royalty payments must be paid within 60
+      days following each date on which you prepare (or are legally
+      required to prepare) your periodic tax returns. Royalty payments
+      should be clearly marked as such and sent to the Project Gutenberg
+      Literary Archive Foundation at the address specified in Section 4,
+      “Information about donations to the Project Gutenberg Literary
+      Archive Foundation.”
+
+    - You provide a full refund of any money paid by a user who notifies
+      you in writing (or by e-mail) within 30 days of receipt that s/he
+      does not agree to the terms of the full Project Gutenberg™ License.
+      You must require such a user to return or destroy all copies of the
+      works possessed in a physical medium and discontinue all use of and
+      all access to other copies of Project Gutenberg™ works.
+
+    - You provide, in accordance with paragraph 1.F.3, a full refund of
+      any money paid for a work or a replacement copy, if a defect in the
+      electronic work is discovered and reported to you within 90 days of
+      receipt of the work.
+
+    - You comply with all other terms of this agreement for free
+      distribution of Project Gutenberg™ works.
+
+
+1.E.9.
+
+
+If you wish to charge a fee or distribute a Project Gutenberg™ electronic
+work or group of works on different terms than are set forth in this
+agreement, you must obtain permission in writing from both the Project
+Gutenberg Literary Archive Foundation and Michael Hart, the owner of the
+Project Gutenberg™ trademark. Contact the Foundation as set forth in
+Section 3 below.
+
+
+1.F.
+
+
+1.F.1.
+
+
+Project Gutenberg volunteers and employees expend considerable effort to
+identify, do copyright research on, transcribe and proofread public domain
+works in creating the Project Gutenberg™ collection. Despite these
+efforts, Project Gutenberg™ electronic works, and the medium on which they
+may be stored, may contain “Defects,” such as, but not limited to,
+incomplete, inaccurate or corrupt data, transcription errors, a copyright
+or other intellectual property infringement, a defective or damaged disk
+or other medium, a computer virus, or computer codes that damage or cannot
+be read by your equipment.
+
+
+1.F.2.
+
+
+LIMITED WARRANTY, DISCLAIMER OF DAMAGES — Except for the “Right of
+Replacement or Refund” described in paragraph 1.F.3, the Project Gutenberg
+Literary Archive Foundation, the owner of the Project Gutenberg™
+trademark, and any other party distributing a Project Gutenberg™
+electronic work under this agreement, disclaim all liability to you for
+damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE
+NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH
+OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH F3. YOU AGREE THAT THE
+FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT
+WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL,
+PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY
+OF SUCH DAMAGE.
+
+
+1.F.3.
+
+
+LIMITED RIGHT OF REPLACEMENT OR REFUND — If you discover a defect in this
+electronic work within 90 days of receiving it, you can receive a refund
+of the money (if any) you paid for it by sending a written explanation to
+the person you received the work from. If you received the work on a
+physical medium, you must return the medium with your written explanation.
+The person or entity that provided you with the defective work may elect
+to provide a replacement copy in lieu of a refund. If you received the
+work electronically, the person or entity providing it to you may choose
+to give you a second opportunity to receive the work electronically in
+lieu of a refund. If the second copy is also defective, you may demand a
+refund in writing without further opportunities to fix the problem.
+
+
+1.F.4.
+
+
+Except for the limited right of replacement or refund set forth in
+paragraph 1.F.3, this work is provided to you ’AS-IS,’ WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+
+1.F.5.
+
+
+Some states do not allow disclaimers of certain implied warranties or the
+exclusion or limitation of certain types of damages. If any disclaimer or
+limitation set forth in this agreement violates the law of the state
+applicable to this agreement, the agreement shall be interpreted to make
+the maximum disclaimer or limitation permitted by the applicable state
+law. The invalidity or unenforceability of any provision of this agreement
+shall not void the remaining provisions.
+
+
+1.F.6.
+
+
+INDEMNITY — You agree to indemnify and hold the Foundation, the trademark
+owner, any agent or employee of the Foundation, anyone providing copies of
+Project Gutenberg™ electronic works in accordance with this agreement, and
+any volunteers associated with the production, promotion and distribution
+of Project Gutenberg™ electronic works, harmless from all liability, costs
+and expenses, including legal fees, that arise directly or indirectly from
+any of the following which you do or cause to occur: (a) distribution of
+this or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any Defect
+you cause.
+
+
+Section  2.
+
+
+           Information about the Mission of Project Gutenberg™
+
+
+Project Gutenberg™ is synonymous with the free distribution of electronic
+works in formats readable by the widest variety of computers including
+obsolete, old, middle-aged and new computers. It exists because of the
+efforts of hundreds of volunteers and donations from people in all walks
+of life.
+
+Volunteers and financial support to provide volunteers with the assistance
+they need, is critical to reaching Project Gutenberg™’s goals and ensuring
+that the Project Gutenberg™ collection will remain freely available for
+generations to come. In 2001, the Project Gutenberg Literary Archive
+Foundation was created to provide a secure and permanent future for
+Project Gutenberg™ and future generations. To learn more about the Project
+Gutenberg Literary Archive Foundation and how your efforts and donations
+can help, see Sections 3 and 4 and the Foundation web page at
+http://www.pglaf.org.
+
+
+Section 3.
+
+
+   Information about the Project Gutenberg Literary Archive Foundation
+
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the state of
+Mississippi and granted tax exempt status by the Internal Revenue Service.
+The Foundation’s EIN or federal tax identification number is 64-6221541.
+Its 501(c)(3) letter is posted at
+http://www.gutenberg.org/fundraising/pglaf. Contributions to the Project
+Gutenberg Literary Archive Foundation are tax deductible to the full
+extent permitted by U.S. federal laws and your state’s laws.
+
+The Foundation’s principal office is located at 4557 Melan Dr.
+S. Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations. Its business office is located at 809 North
+1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org. Email contact links and up to date contact information
+can be found at the Foundation’s web site and official page at
+http://www.pglaf.org
+
+For additional contact information:
+
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+
+Section 4.
+
+
+  Information about Donations to the Project Gutenberg Literary Archive
+                                Foundation
+
+
+Project Gutenberg™ depends upon and cannot survive without wide spread
+public support and donations to carry out its mission of increasing the
+number of public domain and licensed works that can be freely distributed
+in machine readable form accessible by the widest array of equipment
+including outdated equipment. Many small donations ($1 to $5,000) are
+particularly important to maintaining tax exempt status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United States.
+Compliance requirements are not uniform and it takes a considerable
+effort, much paperwork and many fees to meet and keep up with these
+requirements. We do not solicit donations in locations where we have not
+received written confirmation of compliance. To SEND DONATIONS or
+determine the status of compliance for any particular state visit
+http://www.gutenberg.org/fundraising/donate
+
+While we cannot and do not solicit contributions from states where we have
+not met the solicitation requirements, we know of no prohibition against
+accepting unsolicited donations from donors in such states who approach us
+with offers to donate.
+
+International donations are gratefully accepted, but we cannot make any
+statements concerning tax treatment of donations received from outside the
+United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation methods
+and addresses. Donations are accepted in a number of other ways including
+checks, online payments and credit card donations. To donate, please
+visit: http://www.gutenberg.org/fundraising/donate
+
+
+Section 5.
+
+
+      General Information About Project Gutenberg™ electronic works.
+
+
+Professor Michael S. Hart is the originator of the Project Gutenberg™
+concept of a library of electronic works that could be freely shared with
+anyone. For thirty years, he produced and distributed Project Gutenberg™
+eBooks with only a loose network of volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed editions,
+all of which are confirmed as Public Domain in the U.S. unless a copyright
+notice is included. Thus, we do not necessarily keep eBooks in compliance
+with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook’s eBook
+number, often in several formats including plain vanilla ASCII, compressed
+(zipped), HTML and others.
+
+Corrected _editions_ of our eBooks replace the old file and take over the
+old filename and etext number. The replaced older file is renamed.
+_Versions_ based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+
+    http://www.gutenberg.org
+
+
+This Web site includes information about Project Gutenberg™, including how
+to make donations to the Project Gutenberg Literary Archive Foundation,
+how to help produce our new eBooks, and how to subscribe to our email
+newsletter to hear about new eBooks.
+-->
